@@ -3,8 +3,8 @@
 This repository contains a Python implementation of a **Bigram Language Model** using Maximum Likelihood Estimation (MLE). The project demonstrates how to count word frequencies, calculate conditional probabilities, and evaluate the likelihood of specific sentences based on a provided corpus.
 
 ---
-### NAME: SHASHANK REDDY DASARI    
-### ID :700781569   
+## NAME: SHASHANK REDDY DASARI    
+## ID :700781569   
 
 ---
 
